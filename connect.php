@@ -2,7 +2,7 @@
 define("username","test");
 define("pass","");
 define("host","localhost");
-define("db","test");
+define("db","tesasst");
 $mysql = new mysqli (host,username,pass,db);
 
 if ($mysql ->connect_errno){
